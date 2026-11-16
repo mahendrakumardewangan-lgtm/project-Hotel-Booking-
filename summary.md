@@ -1,5 +1,4 @@
-<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 46 PM" src="https://github.com/user-attachments/assets/fbd4b1b0-da09-421f-beb2-4b8384d80fe5" />
-<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 46 PM" src="https://github.com/user-attachments/assets/5635bb71-0e2c-4453-acf3-7bad19c15fd0" />
+
 # Hotel Room Booking System - Project Summary
 
 | | |
@@ -123,6 +122,7 @@ Bill: 3500 + GST 420 = Rs. 3920
 ```
 
 **Screenshot:**
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM" src="https://github.com/user-attachments/assets/1d3f46c7-a596-468e-8a8f-d530cb189478" />
 
 <!-- Add Test Case 2 screenshot here, for example: ![Test Case 2](screenshots/image.jpg) -->
 
@@ -144,7 +144,8 @@ Room 101 is already booked. Please choose another room.
 
 **Screenshot:**
 
-<!-- Add Test Case 3 screenshot here, for example: ![Test Case 3](screenshots/image.jpg) -->
+<!-- Add Test Case 3 screenshot here, for example: ![Test Case 3](screenshots/image.jpg) --><img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM (1)" src="https://github.com/user-attachments/assets/f32ff454-d29a-4831-af1c-a498d139ce62" />
+
 
 
 
@@ -165,6 +166,7 @@ Available rooms:
 ```
 
 **Screenshot:**
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM (2)" src="https://github.com/user-attachments/assets/603911bb-df91-42e7-8fc3-8912bd6fd1f3" />
 
 <!-- Add Test Case 4 (a) screenshot here, for example: ![Test Case 4 (a)](screenshots/image.jpg) -->
 
@@ -182,6 +184,7 @@ Booking for room 101 cancelled. Room 101 is now available.
 
 <!-- Add Test Case 4 (b) screenshot here, for example: ![Test Case 4 (b)](screenshots/image.jpg) -->
 
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM (3)" src="https://github.com/user-attachments/assets/27e19975-667a-488f-a00c-fd36b059a60d" />
 
 
 
