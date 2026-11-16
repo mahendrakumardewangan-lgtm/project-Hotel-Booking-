@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 46 PM" src="https://github.com/user-attachments/assets/fbd4b1b0-da09-421f-beb2-4b8384d80fe5" />
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 46 PM" src="https://github.com/user-attachments/assets/5635bb71-0e2c-4453-acf3-7bad19c15fd0" />
 # Hotel Room Booking System - Project Summary
 
 | | |
@@ -100,7 +102,8 @@ Bill: 4000 + GST 480 = Rs. 4480
 
 **Screenshot:**
 
-<!-- Add Test Case 1 screenshot here, for example: ![Test Case 1](screenshots/image.jpg) -->
+<!-- Add Tes<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 46 PM" src="https://github.com/user-attachments/assets/ced7dc18-f084-4428-8743-01a4cf5a1b6e" />
+t Case 1 screenshot here, for example: ![Test Case 1](screenshots/image.jpg) -->
 
 
 
