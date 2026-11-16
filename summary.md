@@ -101,6 +101,7 @@ Bill: 4000 + GST 480 = Rs. 4480
 **Screenshot:**
 
 <!-- Add Test Case 1 screenshot here, for example: ![Test Case 1](screenshots/image.jpg) -->
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 46 PM" src="https://github.com/user-attachments/assets/6cb02124-3503-4afe-957b-98e2ee590129" />
 
 
 
@@ -122,6 +123,7 @@ Bill: 3500 + GST 420 = Rs. 3920
 **Screenshot:**
 
 <!-- Add Test Case 2 screenshot here, for example: ![Test Case 2](screenshots/image.jpg) -->
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM" src="https://github.com/user-attachments/assets/9230302a-eca0-43fa-a87d-974e3f8f684d" />
 
 
 
@@ -142,6 +144,7 @@ Room 101 is already booked. Please choose another room.
 **Screenshot:**
 
 <!-- Add Test Case 3 screenshot here, for example: ![Test Case 3](screenshots/image.jpg) -->
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM (1)" src="https://github.com/user-attachments/assets/a080c047-ac6c-4812-b030-bfb6d2c1b435" />
 
 
 
@@ -164,6 +167,7 @@ Available rooms:
 **Screenshot:**
 
 <!-- Add Test Case 4 (a) screenshot here, for example: ![Test Case 4 (a)](screenshots/image.jpg) -->
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM (2)" src="https://github.com/user-attachments/assets/68eb77de-ca1d-45c8-8d91-9b3e15e09146" />
 
 
 
@@ -179,6 +183,7 @@ Booking for room 101 cancelled. Room 101 is now available.
 
 <!-- Add Test Case 4 (b) screenshot here, for example: ![Test Case 4 (b)](screenshots/image.jpg) -->
 
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 49 PM (3)" src="https://github.com/user-attachments/assets/727af8ea-2340-4c18-a4ec-1f605cc544b6" />
 
 
 
