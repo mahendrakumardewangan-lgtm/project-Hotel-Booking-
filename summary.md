@@ -93,9 +93,10 @@ Run the program with: `python hotel_booking.py`
 | Menu option 2 (Book), Guest: Amit, Room: 101, Nights: 2 | Room 101 booked for Amit \| 2 nights<br>Bill: 4000 + GST 480 = Rs. 4480 |
 
 **Actual Output:**
-![Uploading WhatsApp Image 2026-11-16 at 4.59.46 PM.jpeg…]()
 
-```
+**screenshot:**<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 4 59 46 PM" src="https://github.com/user-attachments/assets/015ab0dd-53f0-4428-84ee-bbed96e41faa" />
+
+
 Room 101 booked for Amit | 2 nights
 Bill: 4000 + GST 480 = Rs. 4480
 ```
